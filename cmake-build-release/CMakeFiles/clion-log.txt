@@ -1,0 +1,11 @@
+/home/lxj/下载/clion-2018.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -D CMAKE_C_COMPILER=gcc -D CMAKE_CXX_COMPILER=g++ -G "CodeBlocks - Unix Makefiles" /home/lxj/下载/code/ImageBasedModellingEdu/ImageBasedModellingEdu
+-- Found ZLIB: /usr/local/lib/libz.so (found version "1.2.11") 
+-- Found PNG: /usr/lib/x86_64-linux-gnu/libpng.so (found version "1.6.34") 
+PNG found: /usr/lib/x86_64-linux-gnu/libpng.so;/usr/local/lib/libz.so
+-- Found JPEG: /usr/lib/x86_64-linux-gnu/libjpeg.so (found version "80") 
+JPEG found: /usr/lib/x86_64-linux-gnu/libjpeg.so
+-- Found TIFF: /usr/lib/x86_64-linux-gnu/libtiff.so (found version "4.0.9") 
+TIFF found: /usr/lib/x86_64-linux-gnu/libtiff.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lxj/下载/code/ImageBasedModellingEdu/ImageBasedModellingEdu/cmake-build-release

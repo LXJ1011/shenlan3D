@@ -1,0 +1,7 @@
+/home/lxj/下载/clion-2018.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -D CMAKE_C_COMPILER=gcc -D CMAKE_CXX_COMPILER=g++ -G "CodeBlocks - Unix Makefiles" /home/lxj/下载/code/ImageBasedModellingEdu/ImageBasedModellingEdu
+PNG found: /usr/lib/x86_64-linux-gnu/libpng.so;/usr/local/lib/libz.so
+JPEG found: /usr/lib/x86_64-linux-gnu/libjpeg.so
+TIFF found: /usr/lib/x86_64-linux-gnu/libtiff.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lxj/下载/code/ImageBasedModellingEdu/ImageBasedModellingEdu/cmake-build-debug
